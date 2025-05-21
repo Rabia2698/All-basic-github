@@ -1,12 +1,14 @@
-# All-basic-github
+# Using GitHub Locally
 
-In this resiporatory, I hope I can write all the basic that I nee to know in Git and Github. When I forget something, I just can refer back in this respirotory.
+- Remote = Github website.
+- Local  = Visula Studio Code.
 
-### All thing learn in this resiporatory:
+### From Github to VS Code
 
-- Create resiporatory
-- Create Branch
-- Commint and pull
-
-  Email : ra@gmail.com
-  No tel: 0177999
+1. Create new respirotory in github. Create new file "README.md" or any other type of file.
+2. When you want to edit this respirotory but in VS Code. You need to bring this respirotory in VS Code.
+3. How?
+   - Create a Folder in Dekstop. This folder used to put all the folder/respirotory you created in github
+   - Open VS Code >> Click Explorer >> Click Open Folder >> Select the folder that you created in dekstop
+   - 
+  
