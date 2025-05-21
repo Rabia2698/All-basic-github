@@ -5,6 +5,7 @@ In this resiporatory, I hope I can write all the basic that I nee to know in Git
 ### All thing learn in this resiporatory:
 
 - Create resiporatory
-- Create branch
-- Commit and Pull
-  
+- Create Branch
+- Commint and pull
+
+  Email : ra@gmail.com
