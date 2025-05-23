@@ -3,6 +3,13 @@
 git clone 'link in github'
 git clone https://github.com/Rabia2698/All-basic-github.git
 ```
+### When you want to download a new repository in local files (GitHub) into local files (VS Code)
+
+git init
+git add .
+git commit -m "write messages example: Update FilesNames"
+git push origin main
+
 ### When make change in local files (VS Code), then want to update in remote files (GitHub)
 ```
 git add .

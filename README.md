@@ -20,6 +20,11 @@
    - Write on the terminal
      ``git clone https://github.com/Rabia2698/All-basic-github.git``
 
+### From VS Code to Github
+
+1. Create new respirotory in github. The name repository in Github must same as repository in VS Code.
+2. When you want copy this new repository in github. first need to initiaizez a new Git repository in the current folder. So use ``git init``
+
 ### Commit from VS Code to Github
 
 1. We doing this when we make a change in the respiroty on VS Code. So we want to update the same respiroty in GitHub. We need to used Commit and Push command.
