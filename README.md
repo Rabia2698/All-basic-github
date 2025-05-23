@@ -39,6 +39,10 @@
          - You can used this when you want to restore the change you make to the original.
 2. Now check in the website, either it have being update or not.
 
-### Update the chnage make in Website GitHub to VS Code
+### Update the change make in Website GitHub to VS Code
 
-
+1. First ensure the path in repository we want
+2. Used git pull to download the latest chnages from github and updates the local files.
+   - PS C:\Users\HP\Desktop\Learn\Git> cd All-basic-github
+   - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github> git pull origin main
+   
