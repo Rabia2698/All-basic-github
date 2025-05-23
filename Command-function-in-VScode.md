@@ -23,4 +23,5 @@ cd ../All-basic-github   or    cd All-basic-github
 git clear           = to clear all thing in terminal
 git status          = to check the status in the files
 git remote -v       = to check the path to push the files
+git restore         = to restore the change u make to original before commit or add
 ```
