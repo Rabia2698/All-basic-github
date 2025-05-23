@@ -18,6 +18,11 @@ git pull origin main
 cd ../filesnames
 cd ../All-basic-github   or    cd All-basic-github
 ```
+This change from folder file to repository files
+```
+cd ..
+```
+This change from repository files to folder
 ### Others
 ```
 git clear           = to clear all thing in terminal
