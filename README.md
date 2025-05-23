@@ -18,31 +18,28 @@
    - Open VS Code >> Click Explorer >> Click Open Folder >> Select the folder that you created in dekstop
    - Open Terminal on the tab view
    - Write on the terminal
-      #### git clone https://github.com/Rabia2698/All-basic-github.git
+     ``git clone https://github.com/Rabia2698/All-basic-github.git``
 
 ### Commit from VS Code to Github
 
 1. We doing this when we make a change in the respiroty on VS Code. So we want to update the same respiroty in GitHub. We need to used Commit and Push command.
    - Ensure the terminal in the path of the respirotory, if not used "cd <respiroty file name> command
-   - How? 
-      - PS C:\Users\HP\Desktop\Learn\Git> cd ../Git/All-basic-github
-      - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github>
-      - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github> git add .
-      - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github> git commit -m "messages ex= Update Readme"
-      - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github> git remote -v
-         - This to check where we going to push and pull
-      - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github> git push origin main
-
-      - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github> git status
-         - You can used this whenever you want to check the status of the file.
-      - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github> git restore .
-         - You can used this when you want to restore the change you make to the original.
+   - How?
+      ```
+       PS C:\....\Desktop\Git> cd ../Git/All-basic-github
+       PS C:\....\Desktop\Git\All-basic-github>
+       PS C:\....\Desktop\Git\All-basic-github> git add .
+       PS C:\....\Desktop\Git\All-basic-github> git commit -m "messages ex= Update Readme"
+       PS C:\....\Desktop\Git\All-basic-github> git push origin main
+      ```
 2. Now check in the website, either it have being update or not.
 
 ### Update the change make in Website GitHub to VS Code
 
 1. First ensure the path in repository we want
-2. Used git pull to download the latest chnages from github and updates the local files.
-      - PS C:\Users\HP\Desktop\Learn\Git> cd All-basic-github
-      - PS C:\Users\HP\Desktop\Learn\Git\All-basic-github> git pull origin main
+2. Used git pull to download the latest chnages from github and updates the local files.4
+      ```
+      PS C:\....\Desktop\Git\> cd All-basic-github
+      PS PS C:\....\Desktop\Git\All-basic-github> git pull origin main
+      ```
 
